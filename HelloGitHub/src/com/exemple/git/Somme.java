@@ -10,7 +10,7 @@ public class Somme {
 		int a=2;
 		int b=3;
 		int r=a+b;
-		System.out.println("la somme de a et b vaut ="+r);
+		System.out.println("somme ="+r);
 
 	}
 
